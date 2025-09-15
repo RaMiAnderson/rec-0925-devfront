@@ -20,3 +20,7 @@ Route::get('/', function () {
 Route::get('/ramena-completez-votre-reservation', function () {
     return view('reservation');
 });
+
+Route::get('/ramena-paiement', function () {
+    return view('paiement');
+});
