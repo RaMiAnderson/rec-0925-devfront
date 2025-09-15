@@ -1,4 +1,10 @@
 @import 'tailwindcss';
 
+@layer base {
+  * {
+    @apply box-border border-0 p-0 m-0 outline-none;
+  }
+}
+
 @source '../**/*.blade.php';
 @source '../**/*.js';
