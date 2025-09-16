@@ -61,3 +61,8 @@ Les URL doivent être personnalisées par candidat selon le format :
 -		de la main (Pointer)
 -		Ficher pour designer le résultas dans la partie droite
 -		de la flèche avec le bouton Suivant dans le footer
+## Temps pasé :
+- Analyse des  maquettes : ~ 1h
+- intégration HTML + Tailwind : ~ 8h
+- Vérifications / ajustements : ~ 1h
+- Total : ~ 10h
