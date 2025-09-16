@@ -44,3 +44,20 @@ Les URL doivent être personnalisées par candidat selon le format :
     - Section **« Notes de design »** : incohérences rencontrées, arbitrages, fallback de police si nécessaire.
 - *(Optionnel)* **Captures comparatives** montrant vos vérifications de pixel perfect.
 - **Temps passé** (indicatif).
+
+## Notes de design :
+### Dans la Page Réservation : 
+- J'ai pas trouver en version gratuit l'icon : 
+-		de la main (Pointer) pour designer le (Entraînement illimité et gratuit)
+- 		de la liste avec check, pour designer le (Recevez votre test le jour j)
+-		de la boucle pour designer (Repassez votre test pour 0€ (si test échoué))
+-		de la flèche avec le bouton Suivant dans le footer
+- J'ai ajusté la centrage des information a l'interieur des cards pour harmonisé
+- j'ai centré les button (sélectionner dans les cards, car  c'est un peut mal centré vis à vis de la width des cards)
+
+### Dans la Page Paiement :
+- J'ai pas trouver en version gratuit l'icon : 
+-		du Trending en bas du texte (Confirmer et Payer)
+-		de la main (Pointer)
+-		Ficher pour designer le résultas dans la partie droite
+-		de la flèche avec le bouton Suivant dans le footer

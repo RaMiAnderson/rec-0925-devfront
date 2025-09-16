@@ -31,7 +31,7 @@
 						<p class="mt-[63px] text-left font-bold text-[43px] leading-[51px] font-lato text-[#2C2C2C] ml-[172px]">+</p>
 						<p class="ml-[18px] mt-[52px] text-left font-bold text-[61px] leading-[73px] font-lato text-[#2C2C2C]">0€</p>
 					</div>
-					<button class="h-[61px] w-[244px] bg-[#F2F3F5] bg-no-repeat bg-origin-padding bg-left-top shadow-[0px_3px_6px_#00000029] rounded-[12px] ml-[128px] mt-[41px] flex
+					<button class="h-[61px] w-[244px] bg-[#F2F3F5] bg-no-repeat bg-origin-padding bg-left-top shadow-[0px_3px_6px_#00000029] rounded-[12px] ml-[120px] mt-[41px] flex
 									hover:bg-[#e6e6e7] hover:cursor-pointer">
 						<div class="w-[19px] h-[19px] rounded-[50%] bg-[#FFFFFF] bg-no-repeat bg-left-top bg-origin-padding ml-[23px] mt-[22px] flex sm:justify-center sm:items-center">
 
@@ -39,7 +39,7 @@
 						<p class="ml-[28px] mt-[15px] text-left font-lato font-bold text-[26px] leading-[32px] text-[#353535] tracking-[0px]">Sélectionner</p>
 					</button>
 					<hr class="mt-[32.5px] border-[1px] border-[rgba(112,112,112,0.17)] h-[0px]">
-					<div class="ml-[60.05px] mt-[32.5px] ">
+					<div class="ml-[24px] mt-[32.5px] ">
 						<div class="flex">
 							<svg xmlns="http://www.w3.org/2000/svg" 
 							     fill="none" 
@@ -90,7 +90,7 @@
 						<p class="ml-[18px] mt-[52px] text-left font-bold text-[61px] leading-[73px] font-lato text-[#2C2C2C]">40€</p>
 					</div>
 					<p class="mt-[4px]  text-center text-[#2C2C2C] font-normal text-[16px] leading-[19px] font-lato">A peine le prix d'un resto</p>
-					<button class="h-[61px] w-[244px] bg-[#0DBC0D] bg-no-repeat bg-origin-padding bg-left-top shadow-[0px_3px_6px_#00000029] rounded-[12px] ml-[128px] mt-[20px] flex
+					<button class="h-[61px] w-[244px] bg-[#0DBC0D] bg-no-repeat bg-origin-padding bg-left-top shadow-[0px_3px_6px_#00000029] rounded-[12px] ml-[120px] mt-[20px] flex
 									hover:bg-[#56ac56] hover:cursor-pointer">
 						<div class="w-[19px] h-[19px] rounded-[50%] bg-[#FFFFFF] bg-no-repeat bg-left-top bg-origin-padding ml-[23px] mt-[22px] flex sm:justify-center sm:items-center">
 							<svg xmlns="http://www.w3.org/2000/svg" 
@@ -103,7 +103,7 @@
 						<p class="ml-[28px] mt-[15px] text-left font-lato font-bold text-[26px] leading-[32px] text-[#FFFFFF] tracking-[0px]">Sélectionner</p>
 					</button>
 					<hr class="mt-[32.5px] border-[1px] border-[rgba(112,112,112,0.17)] h-[0px]">
-					<div class="ml-[26px] mt-[32.5px] ">
+					<div class="ml-[24px] mt-[32.5px] ">
 						<div class="flex">
 							<svg xmlns="http://www.w3.org/2000/svg" 
 							     fill="none" 
@@ -175,7 +175,7 @@
 						<p class="ml-[8px] mt-[52px] text-left font-bold text-[61px] leading-[73px] font-lato text-[#2C2C2C]">60€</p>
 					</div>
 					<p class="mt-[1px]  text-center text-[#2C2C2C] font-normal text-[16px] leading-[19px] font-lato">A peine le prix de 4 pizzas</p>
-					<button class="h-[61px] w-[244px] bg-[#36578A] bg-no-repeat bg-origin-padding bg-left-top shadow-[0px_3px_6px_#00000029] rounded-[12px] ml-[128px] mt-[20px] flex
+					<button class="h-[61px] w-[244px] bg-[#36578A] bg-no-repeat bg-origin-padding bg-left-top shadow-[0px_3px_6px_#00000029] rounded-[12px] ml-[120px] mt-[20px] flex
 									hover:bg-[#3c5883] hover:cursor-pointer">
 						<div class="w-[19px] h-[19px] rounded-[50%] bg-[#FFFFFF] bg-no-repeat bg-left-top bg-origin-padding ml-[23px] mt-[22px] flex sm:justify-center sm:items-center">
 
@@ -183,7 +183,7 @@
 						<p class="ml-[28px] mt-[15px] text-left font-lato font-bold text-[26px] leading-[32px] text-[#FFFFFF] tracking-[0px]">Sélectionner</p>
 					</button>
 					<hr class="mt-[32.5px] border-[1px] border-[rgba(112,112,112,0.17)] h-[0px]">
-					<div class="ml-[37px] mt-[30.16px] ">
+					<div class="ml-[24px] mt-[32.5px] ">
 						<div class="flex">
 							<svg xmlns="http://www.w3.org/2000/svg" 
 							     fill="none" 

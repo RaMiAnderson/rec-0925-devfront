@@ -137,13 +137,13 @@
 			</form>
 		</div>
 		<div class="w-[650px] right-[138px] h-[650px] fixed ">
-			<div class= "h-[300px] w-full  border-solid border border-[#70707040] rounded-[17px] pt-[30px] pb-[30px] pl-[50px] pr-[50px] flex flex-col sm:items-center">
+			<div class= "h-[300px] w-full  border-solid border border-[#70707040] rounded-[17px] pt-[30px] pb-[30px] pl-[45px] pr-[50px] flex flex-col sm:items-center">
 				<p class="text-left font-bold text-[25px] leading-[24px] font-lato tracking-[0px] text-[#BF2A6B] mt-[10px]">Récapitulatif de votre test psychotechnique</p>
 				<div class="w-full flex mt-[10px]">
-					<p class="text-left font-normal text-[22px] leading-[20px] font-lato tracking-[0px] text-[#525252] mt-[50px] ml-[26px]">Total à payer : </p>
+					<p class="text-left font-normal text-[22px] leading-[20px] font-lato tracking-[0px] text-[#525252] mt-[50px] ml-[25px]">Total à payer : </p>
 					<p class="font-bold font-lato mt-[44px] ml-[10px] text-[22px] text-[#2C2C2C]"> 130.00€</p>
 				</div>
-				<p class="mt-[25px] ml-[30px] font-lato text-[#525252] text-[17px]">En passant votre commande, vous acceptez les conditions générales de vente de la société AAAEP. Veuillez consulter notre politique de protection des données.</p>
+				<p class="mt-[25px] ml-[25px] font-lato text-[#525252] text-[17px]">En passant votre commande, vous acceptez les conditions générales de vente de la société AAAEP. Veuillez consulter notre politique de protection des données.</p>
 			</div>
 			<div class="mt-[30px] w-full h-[180px] flex justify-between pl-[80px] pr-[80px]">
 				<div class="flex flex-col items-center">
@@ -154,7 +154,7 @@
 					<p class=" font-lato text-[17px]">Gratuit Illimité</p>
 				</div>
 
-				<div class="flex flex-col items-center">
+				<div class="flex flex-col items-center ml-[10px]">
 					<div class="w-[70px] h-[70px] rounded-[50%] shadow-[0px_3px_6px_#00000029] flex justify-center items-center overflow-hidden">
 						<svg xmlns="http://www.w3.org/2000/svg" 
 						     fill="none" 
